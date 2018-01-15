@@ -3917,3 +3917,17 @@
 			}
 
 		}
+		.container {
+    position: relative;
+    clear: both;
+    text-align: center;
+}
+.span4 {
+    float: right;
+    width: 200px;
+}
+.span8 {
+    position: relative;
+    float: left;
+    width: 350px;
+}
